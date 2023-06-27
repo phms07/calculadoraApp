@@ -4,7 +4,8 @@ Este é o projeto de uma **calculadora simples**, na qual é possível fazer a 5
 2. Subtração;
 3. Multiplicação;
 4. Divisão;
-5. Porcentagem.
+5. Porcentagem;
+6. Modularização.
 
 A calculadora ***não*** guarda o histórico das operações realizadas e seus respectivos resultados.
 
