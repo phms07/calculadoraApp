@@ -1,0 +1,109 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/FiraSans-Bold.ttf",
+      "sha1": "bdb04cd9e835a3cf7ba22df0354f1472812df225"
+    },
+    {
+      "path": "assets/fonts/FiraSans-Light.ttf",
+      "sha1": "d795fdfc99d1bad2c0e42eea5a9f06e49dd67b1b"
+    },
+    {
+      "path": "assets/fonts/FiraSans-Medium.ttf",
+      "sha1": "9181432d76711ae510c9f20713465810cf09e63b"
+    },
+    {
+      "path": "assets/fonts/FiraSans-Regular.ttf",
+      "sha1": "9647e8c14e6618517f6942fbada0a01e2c18973d"
+    },
+    {
+      "path": "assets/fonts/Helvetica-Bold.ttf",
+      "sha1": "d064906892c6baf2916d5102910026ba0a4f2664"
+    },
+    {
+      "path": "assets/fonts/Helvetica.ttf",
+      "sha1": "53cb59bdb997dd39dc70b95d50133583e66ebdcb"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMono-Bold.ttf",
+      "sha1": "3749e1402fb5d5ab05c082911a4222b30e7e7ce9"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMono-Italic.ttf",
+      "sha1": "a613563d85b404435e276b67732e1f838081cc65"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMono-Medium.ttf",
+      "sha1": "6c85ba197a824800c623170a03de2c7dcd4e231f"
+    },
+    {
+      "path": "assets/fonts/JetBrainsMono-Regular.ttf",
+      "sha1": "c48508dd46c3ca28ce0d2fd9e65bfb7199532f58"
+    },
+    {
+      "path": "assets/fonts/LexendDeca-Bold.ttf",
+      "sha1": "7ee129b4ba6b0eafef748040d48b7979429f149e"
+    },
+    {
+      "path": "assets/fonts/LexendDeca-Medium.ttf",
+      "sha1": "ab665bd77c6d32b4ddb555d2508fde44d384c822"
+    },
+    {
+      "path": "assets/fonts/LexendDeca-Regular.ttf",
+      "sha1": "68dad5183767d1ebf077be1ddb622a7586f28384"
+    },
+    {
+      "path": "assets/fonts/Overpass_Bold.ttf",
+      "sha1": "5955e26572d9c614927863c7789bf29954228ea5"
+    },
+    {
+      "path": "assets/fonts/Overpass_Regular.ttf",
+      "sha1": "6a0d66b2f001f6f25520f16ac0854802af00fec7"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.ttf",
+      "sha1": "cbe48c785f1af6bcd7320609094055e299481da9"
+    },
+    {
+      "path": "assets/fonts/Poppins-Medium.ttf",
+      "sha1": "5c96d1545a51c39e05ee0fcc0c3c9021f14d9c31"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "440dc8992517a306d66e55cb0afed0cfe9b971b5"
+    },
+    {
+      "path": "assets/fonts/ReadexPro-bold.ttf",
+      "sha1": "7103dcfcbe25e3d53cbee7a6522a9627407ec4bf"
+    },
+    {
+      "path": "assets/fonts/ReadexPro-Light.ttf",
+      "sha1": "29db4e4c6f5c72f802953e62c99ff8cf14bde106"
+    },
+    {
+      "path": "assets/fonts/ReadexPro-Medium.ttf",
+      "sha1": "f4e2543ec63600f63f933ae72fcb3155a5fa9214"
+    },
+    {
+      "path": "assets/fonts/SourceCodePro-Bold.ttf",
+      "sha1": "25e58d890f34aee0c9cd2aa0eff4f5432a59a000"
+    },
+    {
+      "path": "assets/fonts/SourceCodePro-Medium.ttf",
+      "sha1": "1b326502bb6172741114300404a543de251855c8"
+    },
+    {
+      "path": "assets/fonts/SourceCodePro-Regular.ttf",
+      "sha1": "84105b22f95c3c871eaac93ce7ae542dec54a8e8"
+    },
+    {
+      "path": "assets/fonts/SpaceMono-Bold.ttf",
+      "sha1": "2aaeb4803e3fa2e258a40d6bc6736410add91555"
+    },
+    {
+      "path": "assets/fonts/SpaceMono-Regular.ttf",
+      "sha1": "fae3a5a43b50e0408fd61e14383d94a023d332b0"
+    }
+  ]
+}
