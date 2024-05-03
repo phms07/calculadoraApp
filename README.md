@@ -18,7 +18,7 @@ A calculadora foi estilizada utilizando a biblioteca ***Styled Components*** (CS
 2. Percorri cada linha da matriz e, dentro de cada linha, percorremos os botões individualmente.
 3. Utilizei a função ***```map```*** para iterar sobre cada linha da matriz **```buttons```**, o que nos possibilita acessar os botões de cada linha individualmente.
 4. Dentro do mapeamento dos botões, adicionei condições para verificar o tipo de botão. Se for um botão numérico, renderizamos um componente ***```<Btn>```*** com o texto do número. Se for uma operação ou outro tipo de botão, renderizamos o componente correspondente, como ***```<BtnOperation>```***, ***```<BtnClean>```***, ***```<OthersBtn>```***, etc.
-5. Em cada componente de botão, defini a chave ***```key``*** como o ***índice do botão no mapeamento***, visando garantir a identificação única de cada elemento renderizado.
+5. Em cada componente de botão, defini a chave ***```key```*** como o ***índice do botão no mapeamento***, visando garantir a identificação única de cada elemento renderizado.
 
 ## Linguagens utilizadas
 * JavaScript;
