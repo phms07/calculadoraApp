@@ -21,9 +21,10 @@ A calculadora foi estilizada utilizando a biblioteca ***Styled Components*** (CS
 5. Em cada componente de botão, defini a chave ***```key```*** como o ***índice do botão no mapeamento***, visando garantir a identificação única de cada elemento renderizado.
 
 ## Linguagens utilizadas
-* JavaScript;
-* React.js;
-* React Native.
+<div align="center">
+  <img alt="JavaScript" height="35" width="40" align="center" src="https://skillicons.dev/icons?i=js">
+  <img alt="React Native" height="40" width="40" align="center" src="https://skillicons.dev/icons?i=react">
+</div>
 
 ## Bibliotecas utilizadas
 * [Styled Components](https://styled-components.com/) (React.js & React Native);
